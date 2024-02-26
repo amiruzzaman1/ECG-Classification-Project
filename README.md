@@ -3,6 +3,8 @@
 This project involves the classification of ECG (Electrocardiogram) readings to determine whether they are normal or abnormal. The dataset consists of rows, each representing a complete ECG of a patient with 140 data points (readings). The target variable is a categorical variable with values 0 or 1, indicating whether the ECG is normal (0) or abnormal (1).
 
 ## Dataset Overview
+**Dataset Link:** [ECG Dataset](https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset/data)
+
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/6acee237-0615-4308-b7e7-7aa4b979aa02)
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/58507133-fc1b-4bc1-9b8c-187d40476eea)
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/25fcea00-146f-4c18-9acf-c8094b0d88bb)
@@ -12,8 +14,9 @@ This project involves the classification of ECG (Electrocardiogram) readings to 
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/7084952d-91a3-4c7c-aa7d-6e8be6a77c86)
 
 
-## Algorithm Implementation
+Dataset Link: ECG Dataset
 
+Algorithm Implementation
 Implement machine learning algorithms for classifying ECG readings into normal or abnormal categories. Some suggested algorithms include Logistic Regression, Random Forest, Extreme Gradient Boost, K-Nearest Neighbors, Decision Tree, Support Vector Machine, Artificial Neural Network, and Long Short-Term Memory networks.
 
 

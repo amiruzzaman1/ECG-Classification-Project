@@ -2,6 +2,8 @@
 
 This project involves the classification of ECG (Electrocardiogram) readings to determine whether they are normal or abnormal. The dataset consists of rows, each representing a complete ECG of a patient with 140 data points (readings). The target variable is a categorical variable with values 0 or 1, indicating whether the ECG is normal (0) or abnormal (1).
 
+## Colab Notebook (Click to View)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3ie2joEcyNI5AJddHxkIQ411FhxcvsR?usp=sharing)
 ## Dataset Overview
 **Dataset Link:** [ECG Dataset](https://www.kaggle.com/datasets/devavratatripathy/ecg-dataset/data)
 
@@ -37,6 +39,4 @@ Implement machine learning algorithms for classifying ECG readings into normal o
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/1604dc00-a043-4ed1-bd18-9bf6dc766d38)
 ![image](https://github.com/amiruzzaman1/Heart-Disease-Detection-with-ECG/assets/68743925/c9436334-2263-48bc-bcf7-04a1afaef08e)
 
-## Colab Notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D3ie2joEcyNI5AJddHxkIQ411FhxcvsR?usp=sharing)
